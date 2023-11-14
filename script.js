@@ -17,7 +17,7 @@ const fixAds = (video) => {
 		video.style.opacity = '0.05';
 		video.style.filter = 'blur(50px)';
 		interval = setInterval(() => {
-			let skipButton = document.querySelector('.ytp-ad-skip-button');
+			let skipButton = document.querySelector('[class*="ytp-ad-skip-button"]');
 			if (skipButton != null) {
 				skipButton.click();
 				console.log('=> Advertisment skip button clicked.');
