@@ -1,6 +1,11 @@
 # YouTube Non-Adblock
 Script to automatically skip ads instead of blocking them.
 
+> [!IMPORTANT]
+> Check out [this repository](https://github.com/maiksicks/youtube-adskip) to get this script as a browser extension.
+
+------
+
 1. Install an extension to inject scripts
    - Chrome: [User JavaScript and CSS](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
    - other browsers not tested yet, should work similar
